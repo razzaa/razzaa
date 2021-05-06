@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in Android, Web Application, C#, C++,Dart,PHP JAVASCRIPT and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions. Looking to start the career as an entry-level software engineer with a reputed firm driven by technology.</h3>
+<h3 align="center">Strong in design and integration with intuitive problem-solving skills. Proficient in Android, Web Application, C#, C++,Dart,PHP JAVASCRIPT and SQL. Passionate about implementing and launching new projects. Ability to translate business requirements into technical solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=system65&label=Profile%20views&color=0e75b6&style=flat" alt="system65" /> </p>
 
